@@ -1,9 +1,8 @@
-package micronaut.validation.sample
+package micronaut.validation.sample.foo
 
 import io.micronaut.http.annotation.Controller
 import io.micronaut.http.annotation.Get
 import io.micronaut.http.annotation.PathVariable
-import javax.inject.Singleton
 
 @Controller
 class FooController(

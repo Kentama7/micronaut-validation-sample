@@ -1,5 +1,7 @@
-package micronaut.validation.sample
+package micronaut.validation.sample.foo
 
+import micronaut.validation.sample.foo.Foo
+import micronaut.validation.sample.foo.FooPattern
 import javax.inject.Singleton
 import javax.validation.Valid
 import javax.validation.constraints.NotEmpty

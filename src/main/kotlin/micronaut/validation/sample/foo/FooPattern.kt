@@ -1,4 +1,4 @@
-package micronaut.validation.sample
+package micronaut.validation.sample.foo
 
 import javax.validation.Constraint
 
